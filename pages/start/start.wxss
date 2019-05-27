@@ -16,3 +16,15 @@ page{
     height: 200rpx;
     border-radius: 50%;
 }
+.nav-btn{
+  width: 300rpx;
+  height: 80rpx;
+  border-radius: 10rpx;
+  line-height: 80rpx;
+  border: none;
+  color: #ffffff;
+  background-color: #e24e24;
+}
+.dec{
+  color: #999999;
+}

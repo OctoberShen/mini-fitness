@@ -1,11 +1,11 @@
-const Config = require('./config.js')
+const Config = require('./config.js.js')
 const baseUrl = Config.baseUrl;
 const uploadImage = require('../../util/uploadFile/uploadFile.js');
 const uploadVideo = require('../../util/uploadFile/uploadVideo.js');
 const Moment = require('../../util/moment.min.js');
 
 //api控制器
-const ApiControl = require('../api/control.js')
+const ApiControl = require('../api/control.js.js')
 
 /*
 封装请求方法：

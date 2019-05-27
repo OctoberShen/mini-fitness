@@ -1,0 +1,4 @@
+<view class="wrapper">
+    <image class="logo" src="http://image.shenchangbin.top/myfitnesslogo.png" />
+    <text class="dec">welcome to myFitness</text>
+</view>
